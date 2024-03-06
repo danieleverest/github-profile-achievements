@@ -133,5 +133,5 @@ Mars 2020 Helicopter Contributor | ![Mars 2020 Helicopter Contributor Achievemen
 
 ## See also
 
-* [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) for a laugh about the Achievements
-* [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) same as this collection, but different ;)
+* [danieleverest/rejected-github-profile-achievements](https://github.com/danieleverest/rejected-github-profile-achievements) for a laugh about the Achievements
+* [danieleverest/GitHub-Achievements](https://github.com/danieleverest/GitHub-Achievements) same as this collection, but different ;)
